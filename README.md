@@ -5,6 +5,7 @@
 >e.g. user_msg = 'C1234.tw' 回傳1234.tw的K線圖<br>
 >![1234.tw](https://i.imgur.com/Yx68wKa.png)
 
-<img class="fit-picture"
+><img class="fit-picture"
      src="https://i.imgur.com/Yx68wKa.png"
+     width="600" heigh="400"
      alt="Grapefruit slice atop a pile of other slices">
