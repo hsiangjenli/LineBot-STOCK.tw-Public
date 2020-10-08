@@ -21,8 +21,8 @@ def plot_candlestick(stock_code, span, CLIENT_ID, savefig):
     mc = mpf.make_marketcolors(up='#5ac390',down='#fd6a6c',volume='in',edge='None',)
     s  = mpf.make_mpf_style(base_mpl_style='fivethirtyeight',gridstyle='None',marketcolors=mc)
     fig = mpf.figure(style=s,figsize=(20,10))
-    ax1 = fig.add_axes([0,0.3,1,0.5])
-    ax2 = fig.add_axes([0,0.1,1,0.2])
+    ax1 = fig.add_axes([0.05,0.3,1,0.5])
+    ax2 = fig.add_axes([0.05,0.1,1,0.2])
     mav=(3,6,9)
     mpf.plot(df,
              type='candle',
