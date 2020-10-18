@@ -7,6 +7,7 @@ Created on Fri Oct  2 11:16:47 2020
 
 import imgur
 import pandas_datareader.data as web
+import yfinance as yf
 import datetime
 import matplotlib.pyplot as plt 
 import mplfinance as mpf
