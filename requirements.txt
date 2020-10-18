@@ -14,3 +14,5 @@ pyimgur
 regex
 matplotlib
 numpy
+requests
+yfinance==0.1.50
