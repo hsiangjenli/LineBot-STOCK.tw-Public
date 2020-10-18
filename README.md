@@ -5,8 +5,8 @@
 >根據使用者傳送之訊息回傳**K線圖**<br>
 >e.g. user_msg = **'C1234.tw'** 回傳1234.tw的K線圖<br>
 ><img class="fit-picture"
-     src="https://i.imgur.com/Yx68wKa.png"
-     width="600" heigh="400"
+     src="https://i.imgur.com/ZD9zgzc.png"
+     width="600"
      alt="1234.tw Candlestick Chart">
 ### [LBSP-1.0.2](https://github.com/hsiangjenli/LineBot-STOCK.tw-Public/tree/LBSP-1.0.2)
 >根據使用者傳送之訊息回傳**MACD線圖**<br>
