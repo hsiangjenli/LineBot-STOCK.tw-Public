@@ -1,7 +1,6 @@
 # LineBot-STOCK.tw-Public
 ### [LBSP-0.0.0]
 >基本回聲機器人
-*****
 ## [基本]K線圖
 ### [LBSP-1.0.1](https://github.com/hsiangjenli/LineBot-STOCK.tw-Public/tree/LBSP-1.0.1)
 >根據使用者傳送之訊息回傳**K線圖**<br>
@@ -17,7 +16,6 @@
      src="https://i.imgur.com/DLRKXq7.png"
      width="300"
      alt="2317.tw Candlestick + Macd">
-***** 
 ## [基本]股票資訊
 ### [LBSP-2.0.1]
 >根據使用者傳送之訊息回傳**股票基本資訊**<br>
