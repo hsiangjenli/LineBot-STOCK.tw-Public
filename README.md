@@ -7,14 +7,14 @@
 >e.g. user_msg = **'C2330.tw'** 回傳2330.tw的K線圖<br>
 ><img class="fit-picture"
      src="https://i.imgur.com/9gt4CLj.png"
-     width="300"
+     width="150"
      alt="2330.tw Candlestick Chart">
 ### [LBSP-1.0.2](https://github.com/hsiangjenli/LineBot-STOCK.tw-Public/tree/LBSP-1.0.2)
 >根據使用者傳送之訊息回傳**MACD線圖**<br>
 >e.g. user_msg = **'Macd2317.tw'** 回傳2317.tw的Macd線圖<br>
 ><img class="fit-picture"
      src="https://i.imgur.com/DLRKXq7.png"
-     width="300"
+     width="150"
      alt="2317.tw Candlestick + Macd">
 ## [基本]股票資訊
 ### [LBSP-2.0.1]
