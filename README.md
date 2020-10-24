@@ -19,7 +19,11 @@
 ## [基本]股票資訊
 ### [LBSP-2.0.1](https://github.com/hsiangjenli/LineBot-STOCK.tw-Public/tree/LBSP-2.0.1)
 >根據使用者傳送之訊息回傳**股票基本資訊**<br>
->e.g. user_msg = **'Info1234.tw'** 回傳1234.tw的股票基本資訊<br>
+>e.g. user_msg = **'Info2330.tw'** 回傳2330.tw的股票基本資訊<br>
+><img class="fit-picture"
+     src="https://i.imgur.com/n0EVGef.jpg"
+     width="150"
+     alt="Info2330.tw">
 ### [LBSP-2.0.2]
 >根據使用者傳送之訊息回傳**股票基本資訊**<br>
 >使用**Flex Messages**美化<br>
