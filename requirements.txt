@@ -1,0 +1,16 @@
+line-bot-sdk
+bs4
+flask
+pymongo
+datetime
+pandas
+pandas_datareader
+SnowNLP
+emoji
+pyshorteners
+scipy
+mplfinance
+pyimgur
+regex
+matplotlib
+numpy
