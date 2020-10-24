@@ -17,7 +17,7 @@
      width="150"
      alt="2317.tw Candlestick + Macd">
 ## [基本]股票資訊
-### [LBSP-2.0.1]
+### [LBSP-2.0.1](https://github.com/hsiangjenli/LineBot-STOCK.tw-Public/tree/LBSP-2.0.1)
 >根據使用者傳送之訊息回傳**股票基本資訊**<br>
 >e.g. user_msg = **'Info1234.tw'** 回傳1234.tw的股票基本資訊<br>
 ### [LBSP-2.0.2]
