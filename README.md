@@ -1,3 +1,5 @@
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/hsiangjenli/LineBot-STOCK.tw-Public/blob/main/videos/demo_1.mp4)
+
 # LineBot-STOCK.tw-Public
 ### [LBSP-0.0.0]
 >基本回聲機器人
