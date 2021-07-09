@@ -1,4 +1,8 @@
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/hsiangjenli/LineBot-STOCK.tw-Public/blob/main/videos/demo_1.mp4)
+
+
+![](https://user-images.githubusercontent.com/71996166/125087875-750cfd80-e0ff-11eb-8070-a23df85bd9a1.mp4)
+
+
 
 # LineBot-STOCK.tw-Public
 ### [LBSP-0.0.0]
